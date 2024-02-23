@@ -1,5 +1,4 @@
 ### Hi there 👋
-by nikita
 
 <!--
 **Nikita-Prajapati02/Nikita-Prajapati02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
